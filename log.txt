@@ -1,0 +1,25 @@
+Start: Sunday, 3 MAY 2015 16:35:00
+End: Sunday, 3 May 2015 17:41:00
+Assign 4, multtable: Did most of the table.  Thought I was finished, but realized I didn't implement
+some of the error checking.
+1 hour
+
+Start: Sunday, 3 MAY 2015 18:12:00
+End: Sunday, 3 May 2015 19:55:00
+Assign 4, multtable: Some of the error checking was difficult.  I got stuck trying to use is_int().
+Rachel's Piazza post led me down the right track and allowed me to finish.
+1.75 hours
+
+Start: Sunday, 3 MAY 2015 19:55:00
+End: Sunday, 3 May 2015 20:08:00
+Assign 4, loopback.php:  Was actually far simpler program than I thought going in.  I was trying to
+do some parsing but it really was about using the $_GET and $_POST as arrays rather than trying 
+to parse it.
+1 hour
+
+Start: Sunday, 3 MAY 2015 21:05:00
+End: Sunday, 3 May 2015 23:32:00
+Assign 4, login.php:  Finished everything.  Approached with a more progressive style of programming
+which worked very well.  Realized that session variables do not just persist for the specific page
+but throughout the session.  This was the lynchpin for the the login.php redirect logic.
+2.5 hours
